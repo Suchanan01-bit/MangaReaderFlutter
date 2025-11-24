@@ -1,0 +1,172 @@
+{
+  "latest_manga": [
+    {
+      "id": "M001",
+      "title": "ผจญภัยในโลก Flutter",
+      "originalTitle": "Flutter World Adventure",
+      "coverUrl": "https://picsum.photos/seed/manga1/200/300",
+      "summary": "เรื่องราวของนักพัฒนาที่ใช้ชีวิตอยู่ในโลกของการเขียนโค้ด Dart และ Widget พวกเขาต้องต่อสู้กับบั๊กและ error ต่างๆ เพื่อสร้างแอปที่สมบูรณ์แบบ",
+      "author": "Code Master",
+      "artist": "UI Designer",
+      "genres": ["Coding", "Fantasy", "Action"],
+      "status": "Ongoing",
+      "lastUpdated": "2025-01-15T10:00:00Z",
+      "views": 15000,
+      "rating": 4.5
+    },
+    {
+      "id": "M002",
+      "title": "Dart และ Riverpod Flow",
+      "coverUrl": "https://picsum.photos/seed/manga2/200/300",
+      "summary": "การผจญภัยของ State Management ในโลกของ Flutter ติดตามเรื่องราวของ Provider ที่ต้องจัดการกับ State ที่ซับซ้อน",
+      "author": "State Manager",
+      "genres": ["Fantasy", "Action", "Comedy"],
+      "status": "Ongoing",
+      "lastUpdated": "2025-01-14T15:30:00Z",
+      "views": 12500,
+      "rating": 4.7
+    },
+    {
+      "id": "M003",
+      "title": "Widget War",
+      "originalTitle": "The Great Widget Battle",
+      "coverUrl": "https://picsum.photos/seed/manga3/200/300",
+      "summary": "สงครามระหว่าง StatelessWidget และ StatefulWidget เพื่อแย่งชิงตำแหน่งเป็น Widget ที่ดีที่สุด มีทั้งการต่อสู้ที่ดุเดือดและเรื่องราวความรัก",
+      "author": "Flutter Sensei",
+      "artist": "Design Ninja",
+      "genres": ["Action", "Romance", "Sci-fi"],
+      "status": "Completed",
+      "lastUpdated": "2025-01-10T08:00:00Z",
+      "views": 25000,
+      "rating": 4.9
+    },
+    {
+      "id": "M004",
+      "title": "API Adventures",
+      "coverUrl": "https://picsum.photos/seed/manga4/200/300",
+      "summary": "การเดินทางของ HTTP Request ผ่านโลกของ REST API พบกับอุปสรรคต่างๆ เช่น 404 Not Found, 500 Internal Server Error และการ handle timeout",
+      "author": "Backend Hero",
+      "genres": ["Adventure", "Comedy"],
+      "status": "Ongoing",
+      "lastUpdated": "2025-01-13T12:00:00Z",
+      "views": 8000,
+      "rating": 4.3
+    },
+    {
+      "id": "M005",
+      "title": "Database Chronicles",
+      "coverUrl": "https://picsum.photos/seed/manga5/200/300",
+      "summary": "เรื่องราวของข้อมูลที่ต้องการหาที่เก็บที่ปลอดภัย ระหว่างทาง SQLite, SharedPreferences และ Hive ใครจะเป็นที่เก็บข้อมูลที่ดีที่สุด",
+      "author": "Data Keeper",
+      "genres": ["Drama", "Fantasy"],
+      "status": "Hiatus",
+      "lastUpdated": "2024-12-20T10:00:00Z",
+      "views": 5500,
+      "rating": 4.0
+    }
+  ],
+  
+  "manga_details": [
+    {
+      "id": "M001",
+      "title": "ผจญภัยในโลก Flutter",
+      "originalTitle": "Flutter World Adventure",
+      "coverUrl": "https://picsum.photos/seed/manga1/200/300",
+      "summary": "เรื่องราวของนักพัฒนาที่ใช้ชีวิตอยู่ในโลกของการเขียนโค้ด Dart และ Widget พวกเขาต้องต่อสู้กับบั๊กและ error ต่างๆ เพื่อสร้างแอปที่สมบูรณ์แบบ ในโลกนี้ทุกอย่างสร้างมาจาก Widget และทุกคนมีพลังพิเศษที่เรียกว่า State Management",
+      "author": "Code Master",
+      "artist": "UI Designer",
+      "genres": ["Coding", "Fantasy", "Action"],
+      "status": "Ongoing",
+      "lastUpdated": "2025-01-15T10:00:00Z",
+      "views": 15000,
+      "rating": 4.5,
+      "chapters": [
+        {
+          "id": "M001_C1",
+          "chapterNumber": 1,
+          "title": "การเริ่มต้นของ Widget",
+          "releaseDate": "2024-10-01T10:00:00Z",
+          "views": 5000,
+          "isRead": false
+        },
+        {
+          "id": "M001_C2",
+          "chapterNumber": 2,
+          "title": "State Management 101",
+          "releaseDate": "2024-10-15T10:00:00Z",
+          "views": 4500,
+          "isRead": false
+        },
+        {
+          "id": "M001_C3",
+          "chapterNumber": 3,
+          "title": "การต่อสู้กับ Null Safety",
+          "releaseDate": "2024-11-01T10:00:00Z",
+          "views": 4200,
+          "isRead": false
+        },
+        {
+          "id": "M001_C4",
+          "chapterNumber": 4,
+          "title": "ปราการของ BuildContext",
+          "releaseDate": "2024-11-15T10:00:00Z",
+          "views": 4000,
+          "isRead": false
+        },
+        {
+          "id": "M001_C5",
+          "chapterNumber": 5,
+          "title": "การปลุกพลัง Provider",
+          "releaseDate": "2025-01-15T10:00:00Z",
+          "views": 3800,
+          "isRead": false
+        }
+      ]
+    }
+  ],
+  
+  "chapter_pages": [
+    {
+      "id": "M001_C1",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "imageUrl": "https://picsum.photos/seed/page1/800/1200"
+        },
+        {
+          "pageNumber": 2,
+          "imageUrl": "https://picsum.photos/seed/page2/800/1200"
+        },
+        {
+          "pageNumber": 3,
+          "imageUrl": "https://picsum.photos/seed/page3/800/1200"
+        },
+        {
+          "pageNumber": 4,
+          "imageUrl": "https://picsum.photos/seed/page4/800/1200"
+        },
+        {
+          "pageNumber": 5,
+          "imageUrl": "https://picsum.photos/seed/page5/800/1200"
+        }
+      ]
+    },
+    {
+      "id": "M001_C2",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "imageUrl": "https://picsum.photos/seed/page6/800/1200"
+        },
+        {
+          "pageNumber": 2,
+          "imageUrl": "https://picsum.photos/seed/page7/800/1200"
+        },
+        {
+          "pageNumber": 3,
+          "imageUrl": "https://picsum.photos/seed/page8/800/1200"
+        }
+      ]
+    }
+  ]
+}
