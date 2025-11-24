@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Nekopost Clone - JSON Server Edition
 
 แอปอ่านมังงะออนไลน์ สร้างด้วย **Flutter + JSON Server**
@@ -340,3 +341,7 @@ MIT License - ใช้งานได้อย่างอิสระ
 **Storage:** SharedPreferences (Local)
 
 </div>
+=======
+# MangaReaderFlutter
+โปรเจกต์นี้คือแอปพลิเคชันตัวอย่างสำหรับอ่านมังงะออนไลน์ที่สร้างด้วย Flutter มีจุดประสงค์หลักเพื่อ ศึกษาการจัดการสถานะ (State Management) ด้วย Provider และการพัฒนาแอปพลิเคชันที่ต้องเชื่อมต่อกับapi ของเว็บไซต์mangadex
+>>>>>>> a4e1440c8d889f8ed183ee260e223ea5b83332b4
